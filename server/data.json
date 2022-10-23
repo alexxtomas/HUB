@@ -1,0 +1,64 @@
+{
+    "quiz": [
+        {
+            "id": 1,
+            "question": "Which COVID variant was first detected in South Africa on 24 November 2021 and spread very fast at the beginning of 2022?",
+            "answers": ["Favicon", "Omicron", "Epsilon", "Alpha"],
+            "correctAnswer": "Omicron"
+        },
+        {
+            "id": 2,
+            "question": "On January 10th a heart transplant from an animal to a human patient was done for the first time. Which animal was it?",
+            "answers": ["A monkey", "A horse", "A tiger", "A pig"],
+            "correctAnswer": "A pig"
+        },
+        {
+            "id": 3,
+            "question": "Who was re-elected as President of Italy in January?",
+            "answers": ["Sergio Mattarella", "Pedro Rossi ", "Paco Ricci", "Agnese Lombardo"],
+            "correctAnswer": "Sergio Mattarella"
+        },
+        {
+            "id": 4,
+            "question": "Where were the Winter Olympics held?",
+            "answers": ["Beijing - China", "New York - EEUU", "Barcelona - Spain", "Tokyo - Japan"],
+            "correctAnswer": "Beijing - China"
+        },
+        {
+            "id": 5,
+            "question": "When did Russia invade Ukraine?",
+            "answers": ["25 January", "12 June", "24 February", "1 August"],
+            "correctAnswer": "24 February"
+        },
+        {
+            "id": 6,
+            "question": "Who is the President of Ukraine? ",
+            "answers": ["Oleksandr Zlenko", "Volodymyr Zelenskyy", "Demyan Zelnskyy", "Dmytro Pito"],
+            "correctAnswer": "Volodymyr Zelenskyy"
+        },
+        {
+            "id": 7,
+            "question": "What is the name of the new King of England? ",
+            "answers": ["King Charles III", "Kinkg Jackson II ", "King Carter IIII", "King Mason III"],
+            "correctAnswer": "King Charles III"
+        },
+        {
+            "id": 8,
+            "question": "Who was elected President of France in 2022? ",
+            "answers": ["Alexandre Richard", "Calvin Klein", "Adrien Simon", "Emmanuel Macron"],
+            "correctAnswer": "Emmanuel Macron"
+        },
+        {
+            "id": 9,
+            "question": "Who slapped Chris Brown at the Oscar ceremony?",
+            "answers": ["Brad Pitt", "Leonardo DiCaprio", "Tom Cruise", "Will Smith"],
+            "correctAnswer": "Will Smith"
+        },
+        {
+            "id": 10,
+            "question": "Which sport is Kamila Valieva known for? ",
+            "answers": ["Volleyball", "Figure Skating", "Soccer", "Basketball"],
+            "correctAnswer": "Figure Skating"
+        }
+    ]
+}
