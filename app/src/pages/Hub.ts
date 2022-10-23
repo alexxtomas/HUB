@@ -3,6 +3,7 @@ import { $ } from "../utils/$"
 import { cleanPage } from "../utils/cleanPage"
 import { getName } from "../utils/getName"
 import PokeApi from "./PokeApi"
+import QuizNeo from "./QuizNeo"
 
 const $app = $('#app')
 const Hub = () => {
@@ -31,8 +32,8 @@ const Hub = () => {
     document.addEventListener('click', async (evt) => {
         const target = evt.target as Element
         const { className } = target
-        if (className === classes[4]) PokeApi()
-        else if (className === classes[5]) console.log('a')
+        if (className === classes[4]) await PokeApi()
+        else if (className === classes[5]) await QuizNeo()
 
 
     })

@@ -29,7 +29,7 @@ const ColorMode = () => {
             cleanPage($app)
             const name = getName()
             if (!name) Home()
-            Hub()
+            else Hub()
 
         }
         else if (className === $buttonPalette.className || classList === $iconPalette.classList) changeColor()

@@ -129,3 +129,12 @@ interface Catch {
 }
 type Errors = Catch | Default | Throw | NullDOMElement
 
+// QUIZ
+
+interface Quiz {
+    id: number
+    question: string
+    answers: string[]
+    correctAnswer: string
+}
+
